@@ -37,4 +37,16 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam9421/DSA-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
