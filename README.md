@@ -37,6 +37,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam9421/DSA-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,5 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
