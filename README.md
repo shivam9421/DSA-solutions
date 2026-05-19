@@ -67,6 +67,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,8 +78,10 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
