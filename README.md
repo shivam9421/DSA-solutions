@@ -75,6 +75,7 @@ Solving problems consistently to build strong fundamentals.
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Solving problems consistently to build strong fundamentals.
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -121,4 +123,5 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
