@@ -37,6 +37,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam9421/DSA-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -81,6 +82,7 @@ Solving problems consistently to build strong fundamentals.
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Solving problems consistently to build strong fundamentals.
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,13 @@ Solving problems consistently to build strong fundamentals.
 | [0450-delete-node-in-a-bst](https://github.com/shivam9421/DSA-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
