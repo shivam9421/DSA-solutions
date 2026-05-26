@@ -133,6 +133,7 @@ Solving problems consistently to build strong fundamentals.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -167,4 +168,12 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
