@@ -36,6 +36,7 @@ Solving problems consistently to build strong fundamentals.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -201,4 +202,12 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
