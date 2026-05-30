@@ -42,6 +42,7 @@ Solving problems consistently to build strong fundamentals.
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -148,6 +149,7 @@ Solving problems consistently to build strong fundamentals.
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
