@@ -51,6 +51,7 @@ Solving problems consistently to build strong fundamentals.
 | [0216-combination-sum-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivam9421/DSA-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -163,6 +164,7 @@ Solving problems consistently to build strong fundamentals.
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +225,5 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 <!---LeetCode Topics End-->
