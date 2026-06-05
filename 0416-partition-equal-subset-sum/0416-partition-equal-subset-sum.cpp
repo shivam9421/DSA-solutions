@@ -1,19 +1,25 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int total = 0;
-        for (int n : nums)
-            total += n;
-        if (total % 2)
-            return false;
-        int target = total / 2;
-        vector<bool> dp(target + 1, false);
-        dp[0] = true;
-        for (int num : nums) {
-            for (int j = target; j >= num; j--) {
-                dp[j] = dp[j] || dp[j - num];
+    bool f(int i,int target ,vector<vector<int> >&dp,vector<int> &nums){
+        if(i==0){
+            return target == nums[0];
             }
-        }
-        return dp[target];
+        if(target==0) return true;
+        if(dp[i][target]!=-1)return dp[i][target];
+
+        bool sntaken= f(i-1,target,dp,nums);
+        bool staken=false;
+        if(nums[i]<=target)  staken=f(i-1,target-nums[i],dp,nums);
+        return dp[i][target] =(sntaken  ||staken);
+
+            }
+    bool canPartition(vector<int>& nums) {
+        int totalsum=0;
+        int n=nums.size();
+        for(int i=0;i<nums.size();i++)totalsum=totalsum+nums[i];
+        if(totalsum%2!=0)return false;
+        int target =totalsum/2;
+        vector<vector<int>> dp(n,vector<int>(target+1,-1));
+        return f(n-1,target,dp,nums);
     }
 };
