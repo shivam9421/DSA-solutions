@@ -53,6 +53,7 @@ Solving problems consistently to build strong fundamentals.
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivam9421/DSA-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -170,6 +171,7 @@ Solving problems consistently to build strong fundamentals.
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Sorting
