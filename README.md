@@ -76,6 +76,7 @@ Solving problems consistently to build strong fundamentals.
 | [0008-string-to-integer-atoi](https://github.com/shivam9421/DSA-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shivam9421/DSA-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shivam9421/DSA-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam9421/DSA-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Sliding Window
@@ -179,6 +180,7 @@ Solving problems consistently to build strong fundamentals.
 | [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shivam9421/DSA-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shivam9421/DSA-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam9421/DSA-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
