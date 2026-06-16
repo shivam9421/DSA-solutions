@@ -49,6 +49,7 @@ Solving problems consistently to build strong fundamentals.
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -93,6 +94,7 @@ Solving problems consistently to build strong fundamentals.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Solving problems consistently to build strong fundamentals.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam9421/DSA-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
