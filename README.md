@@ -52,6 +52,7 @@ Solving problems consistently to build strong fundamentals.
 | [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
+| [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -183,6 +184,7 @@ Solving problems consistently to build strong fundamentals.
 | [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam9421/DSA-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
+| [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -196,6 +198,7 @@ Solving problems consistently to build strong fundamentals.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -232,6 +235,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shivam9421/DSA-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
