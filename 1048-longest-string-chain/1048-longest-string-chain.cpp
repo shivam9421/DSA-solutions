@@ -7,7 +7,7 @@ static bool compareByLength(const string &a, const string &b)
         int n1=words1.size();
         int n2=words2.size();
         int p=0;
-        for(int j=0;j<n2&& p < n1;j++ ){
+        for(int j=0;j<n2;j++ ){
             if(words1[p]==words2[j]){
                 p++;
             }
