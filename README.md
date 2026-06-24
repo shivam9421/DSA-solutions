@@ -137,6 +137,7 @@ Solving problems consistently to build strong fundamentals.
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ Solving problems consistently to build strong fundamentals.
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam9421/DSA-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -286,4 +288,12 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
