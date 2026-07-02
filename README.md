@@ -66,6 +66,7 @@ Solving problems consistently to build strong fundamentals.
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -147,6 +148,7 @@ Solving problems consistently to build strong fundamentals.
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ Solving problems consistently to build strong fundamentals.
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Solving problems consistently to build strong fundamentals.
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -308,6 +312,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
