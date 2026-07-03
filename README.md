@@ -77,6 +77,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/shivam9421/DSA-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -89,6 +90,7 @@ Solving problems consistently to build strong fundamentals.
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivam9421/DSA-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shivam9421/DSA-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -140,6 +142,7 @@ Solving problems consistently to build strong fundamentals.
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam9421/DSA-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
