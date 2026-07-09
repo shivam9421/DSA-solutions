@@ -37,6 +37,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -227,6 +228,7 @@ Solving problems consistently to build strong fundamentals.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -290,6 +292,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
