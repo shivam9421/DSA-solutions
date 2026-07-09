@@ -60,6 +60,7 @@ Solving problems consistently to build strong fundamentals.
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shivam9421/DSA-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -79,6 +80,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/shivam9421/DSA-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivam9421/DSA-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -114,6 +116,7 @@ Solving problems consistently to build strong fundamentals.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shivam9421/DSA-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam9421/DSA-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Tree
