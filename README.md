@@ -43,6 +43,7 @@ Solving problems consistently to build strong fundamentals.
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -298,6 +299,7 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
