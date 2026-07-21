@@ -42,6 +42,7 @@ Solving problems consistently to build strong fundamentals.
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -270,6 +271,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shivam9421/DSA-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 ## Memoization
