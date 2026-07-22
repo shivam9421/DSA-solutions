@@ -52,6 +52,7 @@ Solving problems consistently to build strong fundamentals.
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam9421/DSA-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -155,6 +156,7 @@ Solving problems consistently to build strong fundamentals.
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/shivam9421/DSA-solutions/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -192,6 +194,7 @@ Solving problems consistently to build strong fundamentals.
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shivam9421/DSA-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam9421/DSA-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -295,6 +298,7 @@ Solving problems consistently to build strong fundamentals.
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -330,6 +334,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
