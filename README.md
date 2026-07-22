@@ -40,6 +40,7 @@ Solving problems consistently to build strong fundamentals.
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
@@ -82,6 +83,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/shivam9421/DSA-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivam9421/DSA-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -94,6 +96,7 @@ Solving problems consistently to build strong fundamentals.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam9421/DSA-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/shivam9421/DSA-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivam9421/DSA-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
@@ -235,6 +238,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
