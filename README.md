@@ -107,6 +107,7 @@ Solving problems consistently to build strong fundamentals.
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shivam9421/DSA-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shivam9421/DSA-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/shivam9421/DSA-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -245,6 +246,7 @@ Solving problems consistently to build strong fundamentals.
 | [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shivam9421/DSA-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shivam9421/DSA-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -327,6 +329,7 @@ Solving problems consistently to build strong fundamentals.
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shivam9421/DSA-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
