@@ -84,6 +84,7 @@ Solving problems consistently to build strong fundamentals.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam9421/DSA-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam9421/DSA-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam9421/DSA-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam9421/DSA-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Solving problems consistently to build strong fundamentals.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam9421/DSA-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam9421/DSA-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Solving problems consistently to build strong fundamentals.
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam9421/DSA-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam9421/DSA-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam9421/DSA-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
