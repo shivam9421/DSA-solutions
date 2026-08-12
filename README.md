@@ -108,6 +108,7 @@ Solving problems consistently to build strong fundamentals.
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/shivam9421/DSA-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivam9421/DSA-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/shivam9421/DSA-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -234,6 +235,7 @@ Solving problems consistently to build strong fundamentals.
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/shivam9421/DSA-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivam9421/DSA-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
