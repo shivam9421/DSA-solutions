@@ -83,6 +83,7 @@ Solving problems consistently to build strong fundamentals.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam9421/DSA-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam9421/DSA-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam9421/DSA-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam9421/DSA-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam9421/DSA-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam9421/DSA-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam9421/DSA-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -118,6 +119,7 @@ Solving problems consistently to build strong fundamentals.
 | [1092-shortest-common-supersequence](https://github.com/shivam9421/DSA-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam9421/DSA-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam9421/DSA-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +363,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam9421/DSA-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,4 +394,8 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivam9421/DSA-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam9421/DSA-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
