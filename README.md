@@ -43,6 +43,7 @@ Solving problems consistently to build strong fundamentals.
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
@@ -340,6 +341,7 @@ Solving problems consistently to build strong fundamentals.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
@@ -419,4 +421,8 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/shivam9421/DSA-solutions/tree/main/0455-assign-cookies/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
