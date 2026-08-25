@@ -53,6 +53,7 @@ Solving problems consistently to build strong fundamentals.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/shivam9421/DSA-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0134-gas-station](https://github.com/shivam9421/DSA-solutions/tree/main/0134-gas-station/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam9421/DSA-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shivam9421/DSA-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shivam9421/DSA-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -368,6 +369,7 @@ Solving problems consistently to build strong fundamentals.
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/shivam9421/DSA-solutions/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/shivam9421/DSA-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Recursion
