@@ -117,6 +117,7 @@ Solving problems consistently to build strong fundamentals.
 | [0006-zigzag-conversion](https://github.com/shivam9421/DSA-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/shivam9421/DSA-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam9421/DSA-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/shivam9421/DSA-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -244,6 +245,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivam9421/DSA-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/shivam9421/DSA-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/shivam9421/DSA-solutions/tree/main/0062-unique-paths/) | Medium |
@@ -314,6 +316,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam9421/DSA-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/shivam9421/DSA-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -427,4 +430,8 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shivam9421/DSA-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
