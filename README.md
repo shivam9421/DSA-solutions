@@ -80,6 +80,7 @@ Solving problems consistently to build strong fundamentals.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam9421/DSA-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivam9421/DSA-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -200,6 +201,7 @@ Solving problems consistently to build strong fundamentals.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +356,7 @@ Solving problems consistently to build strong fundamentals.
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
