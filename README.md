@@ -199,6 +199,7 @@ Solving problems consistently to build strong fundamentals.
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shivam9421/DSA-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam9421/DSA-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/shivam9421/DSA-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -243,6 +244,7 @@ Solving problems consistently to build strong fundamentals.
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shivam9421/DSA-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shivam9421/DSA-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam9421/DSA-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivam9421/DSA-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -282,6 +284,7 @@ Solving problems consistently to build strong fundamentals.
 | [0647-palindromic-substrings](https://github.com/shivam9421/DSA-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam9421/DSA-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivam9421/DSA-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/shivam9421/DSA-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -412,10 +415,12 @@ Solving problems consistently to build strong fundamentals.
 | [0210-course-schedule-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam9421/DSA-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam9421/DSA-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam9421/DSA-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam9421/DSA-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
@@ -448,4 +453,8 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
