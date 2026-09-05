@@ -292,6 +292,7 @@ Solving problems consistently to build strong fundamentals.
 | [1143-longest-common-subsequence](https://github.com/shivam9421/DSA-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam9421/DSA-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam9421/DSA-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam9421/DSA-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Sorting
@@ -421,6 +422,7 @@ Solving problems consistently to build strong fundamentals.
 | [0785-is-graph-bipartite](https://github.com/shivam9421/DSA-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam9421/DSA-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam9421/DSA-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -460,6 +462,7 @@ Solving problems consistently to build strong fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shivam9421/DSA-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam9421/DSA-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
@@ -467,5 +470,14 @@ Solving problems consistently to build strong fundamentals.
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shivam9421/DSA-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam9421/DSA-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam9421/DSA-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
