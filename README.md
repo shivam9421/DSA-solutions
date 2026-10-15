@@ -84,6 +84,7 @@ Solving problems consistently to build strong fundamentals.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivam9421/DSA-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam9421/DSA-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/shivam9421/DSA-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam9421/DSA-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam9421/DSA-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/shivam9421/DSA-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -293,6 +294,7 @@ Solving problems consistently to build strong fundamentals.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivam9421/DSA-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivam9421/DSA-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/shivam9421/DSA-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam9421/DSA-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivam9421/DSA-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Sorting
@@ -369,6 +371,7 @@ Solving problems consistently to build strong fundamentals.
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/shivam9421/DSA-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
