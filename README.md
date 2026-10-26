@@ -96,6 +96,7 @@ Solving problems consistently to build strong fundamentals.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam9421/DSA-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivam9421/DSA-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam9421/DSA-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivam9421/DSA-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivam9421/DSA-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam9421/DSA-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
@@ -211,6 +212,7 @@ Solving problems consistently to build strong fundamentals.
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shivam9421/DSA-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivam9421/DSA-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ Solving problems consistently to build strong fundamentals.
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shivam9421/DSA-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivam9421/DSA-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@ Solving problems consistently to build strong fundamentals.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivam9421/DSA-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/shivam9421/DSA-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivam9421/DSA-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +426,7 @@ Solving problems consistently to build strong fundamentals.
 | [1020-number-of-enclaves](https://github.com/shivam9421/DSA-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shivam9421/DSA-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam9421/DSA-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivam9421/DSA-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
