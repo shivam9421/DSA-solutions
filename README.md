@@ -66,6 +66,7 @@ Solving problems consistently to build strong fundamentals.
 | [0368-largest-divisible-subset](https://github.com/shivam9421/DSA-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/shivam9421/DSA-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/shivam9421/DSA-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/shivam9421/DSA-solutions/tree/main/0542-01-matrix/) | Medium |
