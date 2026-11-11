@@ -49,6 +49,7 @@ Solving problems consistently to build strong fundamentals.
 | [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -275,6 +276,7 @@ Solving problems consistently to build strong fundamentals.
 | [0072-edit-distance](https://github.com/shivam9421/DSA-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/shivam9421/DSA-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivam9421/DSA-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/shivam9421/DSA-solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam9421/DSA-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
