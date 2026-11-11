@@ -39,6 +39,7 @@ Solving problems consistently to build strong fundamentals.
 | [0001-two-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/shivam9421/DSA-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/shivam9421/DSA-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -401,6 +402,7 @@ Solving problems consistently to build strong fundamentals.
 | [0005-longest-palindromic-substring](https://github.com/shivam9421/DSA-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/shivam9421/DSA-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/shivam9421/DSA-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/shivam9421/DSA-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/shivam9421/DSA-solutions/tree/main/0647-palindromic-substrings/) | Medium |
