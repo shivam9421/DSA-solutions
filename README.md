@@ -41,6 +41,7 @@ Solving problems consistently to build strong fundamentals.
 | [0018-4sum](https://github.com/shivam9421/DSA-solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0048-rotate-image](https://github.com/shivam9421/DSA-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -359,6 +360,7 @@ Solving problems consistently to build strong fundamentals.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shivam9421/DSA-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/shivam9421/DSA-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/shivam9421/DSA-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shivam9421/DSA-solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -374,6 +376,7 @@ Solving problems consistently to build strong fundamentals.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shivam9421/DSA-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shivam9421/DSA-solutions/tree/main/0064-minimum-path-sum/) | Medium |
