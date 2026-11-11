@@ -43,6 +43,7 @@ Solving problems consistently to build strong fundamentals.
 | [0040-combination-sum-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/shivam9421/DSA-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/shivam9421/DSA-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/shivam9421/DSA-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -269,6 +270,7 @@ Solving problems consistently to build strong fundamentals.
 | [0005-longest-palindromic-substring](https://github.com/shivam9421/DSA-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/shivam9421/DSA-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/shivam9421/DSA-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/shivam9421/DSA-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shivam9421/DSA-solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/shivam9421/DSA-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shivam9421/DSA-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -521,4 +523,8 @@ Solving problems consistently to build strong fundamentals.
 | [1661-average-time-of-process-per-machine](https://github.com/shivam9421/DSA-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/shivam9421/DSA-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivam9421/DSA-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shivam9421/DSA-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
